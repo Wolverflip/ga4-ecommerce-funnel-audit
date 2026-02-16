@@ -43,59 +43,6 @@ The goal was to analyze the full e‑commerce journey from product view to purch
 ![Funnel Screenshot](funnel.png)
 
 ## Drop-off Analysis
-The funnel shows significant user drop-offs across the e-commerce journey.
-The analysis below highlights where users abandon the process and what these patterns may indicate.
-
-### 1. view_item → add_to_cart (72.8% drop-off)
-Only 27.2% of users who view a product add it to their cart.
-
-**Possible reasons:**
-- Product pages may lack persuasive elements (reviews, clear pricing, shipping info)
-- Weak or poorly placed CTA buttons
-- Slow loading times on mobile
-- Users browsing without purchase intent
-
-**Device insights:**
-- Desktop add-to-cart rate: 29.24%
-- Mobile add-to-cart rate: 20.43%
-
-Mobile users convert significantly worse, suggesting UX friction on smaller screens.
-
-### 2. add_to_cart → begin_checkout (50.7% drop-off)
-Half of the users who add an item to the cart do not start checkout.
-
-**Possible reasons:**
-- Unexpected shipping costs
-- No guest checkout option
-- Confusing or cluttered cart layout
-- Lack of trust signals (security badges, return policy)
-
-### 3. begin_checkout → add_payment_info (24.8% drop-off)
-One in four users abandon during checkout initiation.
-
-**Possible reasons:**
-- Too many form fields
-- Missing autofill support
-- Poor mobile usability
-- Payment method limitations
-
-### 4. add_payment_info → purchase (36.7% drop-off)
-A large portion of users who enter payment info do not complete the purchase.
-
-**Possible reasons:**
-- Payment errors or declined cards
-- Lack of trust at the final step
-- No confirmation of shipping cost until late
-- Users comparing prices elsewhere
-
-### Summary
-The highest friction points occur at:
-- **Product → Cart**
-- **Payment Info → Purchase**
-
-Mobile users consistently underperform compared to desktop, indicating a need for mobile-first UX improvements.
-
-## Drop-off Analysis
 
 The funnel shows significant user drop-offs across the e-commerce journey.  
 The analysis below highlights where users abandon the process and what these patterns may indicate.
