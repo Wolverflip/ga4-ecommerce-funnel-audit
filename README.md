@@ -40,7 +40,7 @@ The goal was to analyze the full e‑commerce journey from product view to purch
 - **Visualization:** Standard funnel  
 
 ### Screenshot of the funnel:
-![Funnel Screenshot](screenshots/funnel.png)
+![Funnel Screenshot](funnel.png)
 
 ## Drop-off Analysis
 The funnel shows significant user drop-offs across the e-commerce journey.
